@@ -1,0 +1,6 @@
+# Temporary / deployment artifacts
+*.aab
+play-store-assets/
+local.properties
+.DS_Store
+Thumbs.db
